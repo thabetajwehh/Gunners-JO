@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499961888040",
+    "firebase_url": "https://gunners-services.firebaseio.com",
+    "project_id": "gunners-services",
+    "storage_bucket": "gunners-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499961888040:android:aefc37a15314120187241d",
+        "android_client_info": {
+          "package_name": "com.example.gunnersservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499961888040-6j8eiupfuruh46tknafek3o1h8aumg4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnAX0trxn0Z0F1ciAHlGh48u36nHxKPS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499961888040-6j8eiupfuruh46tknafek3o1h8aumg4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
